@@ -33,7 +33,7 @@ A modern, high-performance portfolio website built with **React**, **Vite**, **T
 - **Effects**: Canvas Confetti
 - **Deployment**: Vercel (pre-configured with `vercel.json`)
 
----
+<!-- ---
 
 ## 🚀 How to Deploy to Vercel
 
@@ -93,4 +93,4 @@ All personal info, links, and project entries are centralized in:
 - **Email**: Update `personalInfo.email`
 - **Profile Photo**: If you wish to display a custom headshot image, place `avatar.png` in `portfolio/public/` and reference it.
 - **Resume PDF**: Place `resume.pdf` into `portfolio/public/` and link to `/resume.pdf`.
-
+ -->
